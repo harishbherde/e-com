@@ -37,7 +37,7 @@ download project using git clone
   
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/MaratheHarshad/e-commerce
+git clone https://github.com/harishbherde/e-com.git
 
 ```
     
